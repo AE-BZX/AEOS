@@ -1,0 +1,12 @@
+版本:1.0
+更新须知:
+ 新增命令:
+    mkdir xxx:  同linux系统的mkdir命令
+    exit: 同linux系统的exit命令
+    cd xxx: 同linux系统的cd命令
+    touch xxx: 创建文件
+    reset xxx xxx: 重命名文件或文件夹
+    read xxx: 输出指定文件的数据
+    writer xxx: 修改指定文件的数据
+    delete xxx: 删除指定的文件或文件夹
+    echo xxx: 输出指定内容

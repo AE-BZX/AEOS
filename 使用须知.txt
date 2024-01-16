@@ -1,0 +1,2 @@
+第一次启动AEOS前请双击运行init.bat
+启动AEOS请双击运行start.bat
